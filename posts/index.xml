@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HITLUG</title>
+    <link>https://hitlug.github.io/posts/</link>
+    <description>Recent content in Posts on HITLUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 08 Sep 2018 00:29:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://hitlug.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>等待切换网络</title>
+      <link>https://hitlug.github.io/posts/2018-9-8-waiting-for-switching-network/</link>
+      <pubDate>Sat, 08 Sep 2018 00:29:45 +0800</pubDate>
+      
+      <guid>https://hitlug.github.io/posts/2018-9-8-waiting-for-switching-network/</guid>
+      <description>由于网络中心的网线排布出现问题，目前服务器的网卡工作状态为100Mbps且不能上调。正在等待网络中心切换网络线路。在切换网络之前，尤其是镜像管理器正在同步时，会出现访问速度较慢的情况。给您造成不便敬请谅解。</description>
+    </item>
+    
+  </channel>
+</rss>
