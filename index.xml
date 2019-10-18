@@ -6,10 +6,22 @@
     <description>Recent content on HITLUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 08 Sep 2018 00:29:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 11:12:00 +0800</lastBuildDate>
     
 	<atom:link href="https://hitlug.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新镜像服务器上线啦</title>
+      <link>https://hitlug.github.io/posts/2019-10-14-new-mirror-online/</link>
+      <pubDate>Mon, 14 Oct 2019 11:12:00 +0800</pubDate>
+      
+      <guid>https://hitlug.github.io/posts/2019-10-14-new-mirror-online/</guid>
+      <description>由哈尔滨工业大学网络与信息中心支持创办，由哈尔滨工业大学Linux用户协会运行维护的新镜像站上线啦~
+mirrors.hit.edu.cn 自动解析
+mirrors4.hit.edu.cn 仅解析 v4（仅校内）
+mirrors6.hit.edu.cn 仅解析 v6</description>
+    </item>
     
     <item>
       <title>等待切换网络</title>
