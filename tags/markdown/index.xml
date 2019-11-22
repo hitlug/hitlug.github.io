@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HITLUG</title>
-    <link>https://hitlug.github.io/</link>
-    <description>Recent content on HITLUG</description>
+    <title>markdown on HITLUG</title>
+    <link>https://hitlug.github.io/tags/markdown/</link>
+    <description>Recent content in markdown on HITLUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 15 Nov 2019 15:10:00 +0800</lastBuildDate>
     
-	<atom:link href="https://hitlug.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hitlug.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,27 +22,6 @@ Ubuntu 4.10 (Warty Warthog)
 Ubuntu 19.10 (Eoan Ermine)
 活动介绍 Ubuntu 19.10 新系统的常规升级部分：Linux 内核 5.3，GNOME 3.34 桌面环境，桌面外观改进。新功能特性：
  实验性 ZFS 文件系统安装选项 系统镜像集成 Nvidia 显卡驱动 Snap 应用迎来主题支持 采用 LZ4 压缩算法减少系统启动时间  本次发布派对除了介绍新系统外，还还将为大家介绍开源文化，并为大家分享 Git 和 Markdown 的基础用法。</description>
-    </item>
-    
-    <item>
-      <title>新镜像服务器上线啦</title>
-      <link>https://hitlug.github.io/posts/2019-10-14-new-mirror-online/</link>
-      <pubDate>Mon, 14 Oct 2019 11:12:00 +0800</pubDate>
-      
-      <guid>https://hitlug.github.io/posts/2019-10-14-new-mirror-online/</guid>
-      <description>由哈尔滨工业大学网络与信息中心支持创办，由哈尔滨工业大学Linux用户协会运行维护的新镜像站上线啦~
-mirrors.hit.edu.cn 自动解析
-mirrors4.hit.edu.cn 仅解析 v4（仅校内）
-mirrors6.hit.edu.cn 仅解析 v6</description>
-    </item>
-    
-    <item>
-      <title>等待切换网络</title>
-      <link>https://hitlug.github.io/posts/2018-9-8-waiting-for-switching-network/</link>
-      <pubDate>Sat, 08 Sep 2018 00:29:45 +0800</pubDate>
-      
-      <guid>https://hitlug.github.io/posts/2018-9-8-waiting-for-switching-network/</guid>
-      <description>由于网络中心的网线排布出现问题，目前服务器的网卡工作状态为100Mbps且不能上调。正在等待网络中心切换网络线路。在切换网络之前，尤其是镜像管理器正在同步时，会出现访问速度较慢的情况。给您造成不便敬请谅解。</description>
     </item>
     
   </channel>
