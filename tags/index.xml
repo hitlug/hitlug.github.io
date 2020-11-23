@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>git</title>
+      <title>Git</title>
       <link>https://hitlug.github.io/tags/git/</link>
       <pubDate>Fri, 15 Nov 2019 15:10:00 +0800</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>markdown</title>
+      <title>Markdown</title>
       <link>https://hitlug.github.io/tags/markdown/</link>
       <pubDate>Fri, 15 Nov 2019 15:10:00 +0800</pubDate>
       
@@ -30,34 +30,7 @@
     </item>
     
     <item>
-      <title>open source</title>
-      <link>https://hitlug.github.io/tags/open-source/</link>
-      <pubDate>Fri, 15 Nov 2019 15:10:00 +0800</pubDate>
-      
-      <guid>https://hitlug.github.io/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>release party</title>
-      <link>https://hitlug.github.io/tags/release-party/</link>
-      <pubDate>Fri, 15 Nov 2019 15:10:00 +0800</pubDate>
-      
-      <guid>https://hitlug.github.io/tags/release-party/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ubuntu</title>
-      <link>https://hitlug.github.io/tags/ubuntu/</link>
-      <pubDate>Fri, 15 Nov 2019 15:10:00 +0800</pubDate>
-      
-      <guid>https://hitlug.github.io/tags/ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mirrors</title>
+      <title>Mirrors</title>
       <link>https://hitlug.github.io/tags/mirrors/</link>
       <pubDate>Mon, 14 Oct 2019 11:12:00 +0800</pubDate>
       
@@ -66,11 +39,38 @@
     </item>
     
     <item>
-      <title>network-error</title>
+      <title>Network Error</title>
       <link>https://hitlug.github.io/tags/network-error/</link>
       <pubDate>Sat, 08 Sep 2018 00:29:45 +0800</pubDate>
       
       <guid>https://hitlug.github.io/tags/network-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://hitlug.github.io/tags/open-source/</link>
+      <pubDate>Fri, 15 Nov 2019 15:10:00 +0800</pubDate>
+      
+      <guid>https://hitlug.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release Party</title>
+      <link>https://hitlug.github.io/tags/release-party/</link>
+      <pubDate>Fri, 15 Nov 2019 15:10:00 +0800</pubDate>
+      
+      <guid>https://hitlug.github.io/tags/release-party/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://hitlug.github.io/tags/ubuntu/</link>
+      <pubDate>Fri, 15 Nov 2019 15:10:00 +0800</pubDate>
+      
+      <guid>https://hitlug.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
     
