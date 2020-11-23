@@ -9,12 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Prepare environment
-        run: apt update && apt install hugo --no-install-recommends
+        run: sudo apt update && sudo apt install hugo --no-install-recommends
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          submodules: 'true'
       - name: Build
         run: hugo
       - name: Deploy
-        run: mv public/ /tmp/ && git fetch origin master && git checkout master && rm -rf * && mv /tmp/public/* . && git add . && git commit -m "Hugo build" --author="hitlug <lug@hit.edu.cn>" && git push https://${{ secrets.GITHUB_TOKEN }}@github.com/hitlug/hitlug.github.io.git
-
+        run: git config user.name hitlug && git config user.email lug@hit.edu.cn &&  mv public/ /tmp/ && git fetch origin master && git checkout master && rm -rf * && mv /tmp/public/* . && git add . && git commit -m "Hugo build" && git push https://${{ secrets.GITHUB_TOKEN }}@github.com/hitlug/hitlug.github.io.git
 
