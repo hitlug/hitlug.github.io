@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on HITLUG</title>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Mirror News</title>
+      <title>mirror-news</title>
       <link>https://hitlug.github.io/categories/mirror-news/</link>
       <pubDate>Mon, 14 Oct 2019 11:12:00 +0800</pubDate>
       
