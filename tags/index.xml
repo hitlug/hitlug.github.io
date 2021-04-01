@@ -6,10 +6,19 @@
     <description>Recent content in Tags on HITLUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 15 Nov 2019 15:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 22:23:00 +0800</lastBuildDate>
     
 	<atom:link href="https://hitlug.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>recruit</title>
+      <link>https://hitlug.github.io/tags/recruit/</link>
+      <pubDate>Thu, 01 Apr 2021 22:23:00 +0800</pubDate>
+      
+      <guid>https://hitlug.github.io/tags/recruit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>git</title>

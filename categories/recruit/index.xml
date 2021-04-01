@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recruit on HITLUG</title>
+    <link>https://hitlug.github.io/categories/recruit/</link>
+    <description>Recent content in recruit on HITLUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 01 Apr 2021 22:23:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hitlug.github.io/categories/recruit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我们开始招新了！</title>
+      <link>https://hitlug.github.io/posts/2021-04-01-recruit/</link>
+      <pubDate>Thu, 01 Apr 2021 22:23:00 +0800</pubDate>
+      
+      <guid>https://hitlug.github.io/posts/2021-04-01-recruit/</guid>
+      <description>我们开始招新了！ 关于 Linux 开源学生俱乐部 Linux 开源学生俱乐部[1]2019 年注册于计算学部，俱乐部为 GNU/Linux 爱好者与喜爱开源的同学提供交流的平台；俱乐部同时推广自由软件在学生中的使用、支持开源的发展，并为开源注入学生力量。
+我们会在每年举办 Release Party、SFD 等活动，也面向俱乐部内外举办 Linux 与相关开源技术讲座。同时我们也会举办开源文化讲座，推广自由软件在学生中的使用。
+在网络中心支持下，我们运行维护了哈尔滨工业大学开源镜像站[2]、哈尔滨工业大学 GitLab 服务[3]，为校内外师生提供优质的服务。
+招新宣讲 本学期春季招新宣讲将在 2021 年 4 月 4 日（星期日）下午 16:15 – 17:00 于本部(第二学区)东配楼 BD401 进行，如果您对网络安全感兴趣，您也可以在当日下午 14:00 - 16:00 在同地点参与紫丁香 CTF 俱乐部[4]的招新宣讲。
+欢迎大家积极参加。
+联系我们 关于招新您可以加入我们的招新群(QQ) 1153235504，您也可以通过我们的邮件[5]与 Issues[6]与我们取得联系
+[1] https://github.com/hitlug/
+[2] https://mirrors.hit.edu.cn/
+[3] https://git.hit.edu.cn/
+[4] https://www.hitctf.cn/
+[5] lug@hit.edu.cn
+[6] https://github.com/hitlug/issues</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,22 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hitlug.github.io/categories/</loc>
+    <lastmod>2021-04-01T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hitlug.github.io/</loc>
+    <lastmod>2021-04-01T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hitlug.github.io/posts/</loc>
+    <lastmod>2021-04-01T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hitlug.github.io/tags/recruit/</loc>
+    <lastmod>2021-04-01T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hitlug.github.io/categories/recruit/</loc>
+    <lastmod>2021-04-01T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hitlug.github.io/tags/</loc>
+    <lastmod>2021-04-01T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hitlug.github.io/posts/2021-04-01-recruit/</loc>
+    <lastmod>2021-04-01T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hitlug.github.io/categories/activities/</loc>
     <lastmod>2019-11-15T15:10:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hitlug.github.io/categories/</loc>
-    <lastmod>2019-11-15T15:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hitlug.github.io/tags/git/</loc>
-    <lastmod>2019-11-15T15:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hitlug.github.io/</loc>
     <lastmod>2019-11-15T15:10:00+08:00</lastmod>
   </url>
   
@@ -33,17 +58,7 @@
   </url>
   
   <url>
-    <loc>https://hitlug.github.io/posts/</loc>
-    <lastmod>2019-11-15T15:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hitlug.github.io/tags/release-party/</loc>
-    <lastmod>2019-11-15T15:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hitlug.github.io/tags/</loc>
     <lastmod>2019-11-15T15:10:00+08:00</lastmod>
   </url>
   
